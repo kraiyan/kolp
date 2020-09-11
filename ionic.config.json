@@ -1,0 +1,7 @@
+{
+  "name": "hackey",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
